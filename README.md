@@ -18,7 +18,6 @@
 
 # Hi, I'm joyboyy42 👋
 
-Student at EPITA · into cybersecurity, CTFs and OSINT
 
 </div>
 
@@ -28,5 +27,4 @@ Student at EPITA · into cybersecurity, CTFs and OSINT
 
 ### 🏴‍☠️ Currently
 
-- Grinding challenges on Root-Me and TryHackMe
-- Building small tools to make my workflow faster
+- Grinding & Building
